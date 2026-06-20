@@ -338,7 +338,7 @@ The goal of the dashboard is to present the main business insights in a clear an
 
 ### Dashboard Preview
 
-![Online Retail Dashboard](../Tableau/online_retail_dashboard.png)
+![Online Retail Dashboard](Tableau/online_retail_dashboard.png)
 
 ## Key Business Insights
 
